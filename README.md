@@ -1,20 +1,18 @@
-```py
-from GitHub import ReadMe
+```bat
+Hello!
+```
 
-class Dropout(ReadMe):
-    "kusiniek/README.md"
+<img align="left" src="https://media.discordapp.net/attachments/698136290964799519/955042828763942962/c09a317a87398aa7324b02a1455f3032.jpg" width="250" /> 
 
-    def __init__(self):
-        self.username = "kusiniek"
-        self.youtube = "https://www.youtube.com/channel/UCa0HeXn0ZUnnIUrRkB2bFqg"
-        self.contacts = {
-            "Discord": "Richy$#3820",
-        }
-        self.alises = [
-            "kusiniek",
-            "Ricky$"
-        ]
-        self.location = "Latvia"
-        self.age = "15, Born 2 August 2006"
-        self.occupation = "Latvian Developer"
-        self.operating_system = "Arch, Linux"
+```csharp
+ akifrzayev09
+ -------------
+
+     Name  -  Akif
+Interests  -  Make Money, Development, Finance
+      WIP  -  Geass (Open Marketplace)
+Termninal  -  Hyper
+Languages  -  JS, Python, C#
+    Alias  -  Kimbo
+  Discord  -  Akif#0001 | 778977126346391562
+```
