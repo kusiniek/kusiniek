@@ -9,9 +9,7 @@ Hey! 👋
  -------------
 
      Name  -  kusiniek
-Interests  -  Make Money, Development, Finance
-Termninal  -  Hyper
-Languages  -  JS, Python, C#
-    Alias  -  Ricky$
   Discord  -  Richy$#3820 | 853221983465373707
+Interests  -  Make Money, Development, Finance
+Languages  -  JS, Python, C#
 ```
